@@ -8,7 +8,7 @@
 
 A reusable Claude skill for building, applying, and improving audience personas. Built for newsletter writers, content creators, and anyone who makes decisions about what to write, what to sell, and how much to charge — and wants those decisions to be grounded in something more reliable than intuition.
 
-The skill was built for the TABARC-Gaming / Games Haven Substack context, but the methodology is general. If you have an audience you want to understand properly, it works.
+The skill was built for the TABARC-Gaming / and then as a sub skill foor a client Games Haven - Web Dev so they could test the Substack context, but the methodology is general. If you have an audience you want to understand properly, it works.
 
 ---
 
