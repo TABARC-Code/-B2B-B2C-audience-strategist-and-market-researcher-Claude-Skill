@@ -1,7 +1,7 @@
 # audience-profiles
 
 **Author:** TABARC-Code  
-**Version:** 1.0.0  
+**Version:** 1.0.4 
 **Works with:** Claude (claude.ai, Claude Code, Claude Desktop)
 
 ---
@@ -14,7 +14,7 @@ The skill was built for the TABARC-Gaming / Games Haven Substack context, but th
 
 ## What It Does
 
-Most audience research produces a flat document nobody reads twice. A paragraph about demographics. A list of "pain points." A vague before/after that sounds like every other before/after. It goes in a folder and gets forgotten.
+So most audience research produces a flat document nobody reads twice. A paragraph about demographics. A list of "pain points." A vague before/after that sounds like every other before/after. It goes in a folder and gets forgotten.
 
 This skill does something different. It builds a persona in three layers — core profile, psychological depth, buying behaviour — and then actively routes that persona into decisions. Content, offers, pricing, product. Each domain has its own protocol inside the skill. You don't just have a persona; you use it.
 
@@ -66,7 +66,7 @@ Once installed, the skill triggers on phrases like:
 - "price this for my audience"
 - "who am I writing for"
 
-You don't need to name the skill. Just talk about your audience the way you normally would.
+You don't need to name the skill. Just talk about your audience the way you'd normally would.
 
 ### Quick Examples
 
@@ -166,6 +166,6 @@ MIT. Use it, fork it, adapt it. If you build something better, consider opening 
 
 ## Author
 
-Built by [TABARC-Code](https://github.com/TABARC-Code) for the TABARC-Gaming ecosystem — tabletop gaming content, community building, and newsletter strategy.
+Built by [TABARC-Code](https://github.com/TABARC-Code) for the TABARC-Gaming ecosystem — tabletop gaming content, community building, and newsletter strategy. I built this as a  quick and dirty audience test skill. It does work and o, but you are always better to use actual feedbak. 
 
 Questions or issues: open a GitHub issue.
