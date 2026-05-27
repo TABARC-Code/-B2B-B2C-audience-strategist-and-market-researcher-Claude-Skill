@@ -1,0 +1,2 @@
+# -B2B-B2C-audience-strategist-and-market-researcher-Claude-Skill
+Create, apply, and continuously refine detailed audience personas for any newsletter, content strategy, marketing campaign, offer, pricing decision, or product build. Use this skill whenever you need to understand who you're writing for, what they need, what stops them from buying, or how to position anything for a specific reader or buyer.
