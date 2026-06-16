@@ -92,6 +92,19 @@ A subscriber replied saying "I always feel like I'm three steps behind everyone 
 the table." What does this update in the profile?
 ```
 
+**Adding public source evidence:**
+```
+I collected public X/Twitter replies from my target readers. Turn them into an
+audience evidence packet before updating the persona.
+```
+
+When the signals come from public X/Twitter posts, replies, or comments, keep
+each source tied to its URL, timestamp, audience segment, and context before you
+copy any verbatim language into the profile. Tools such as
+[TweetClaw](https://github.com/Xquik-dev/tweetclaw) can help collect public
+posts or replies, but the skill should still mark each insight as evidence,
+hypothesis, or contradiction before it changes the persona.
+
 ---
 
 ## The Three Layers
@@ -152,9 +165,9 @@ Claude reads only the reference files needed for the current task. The full ques
 
 Other TABARC-Code skills that work well alongside this one:
 
-- [`blog-writer`](../blog-writer) — apply your persona directly to post drafts
-- [`web-seo-master`](../web-seo-master) — align SEO strategy with persona language
-- [`forensic-style-auditor`](../forensic-style-auditor) — match your voice to what your audience expects
+- `blog-writer` - apply your persona directly to post drafts
+- [`web-seo-master`](https://github.com/TABARC-Code/WEB-SEO-MASTER-v2.0.0) - align SEO strategy with persona language
+- [`forensic-style-auditor`](https://github.com/TABARC-Code/Forensic-Writing-Style-Analysis-Cloning-Claude-Skill) - match your voice to what your audience expects
 
 ---
 
